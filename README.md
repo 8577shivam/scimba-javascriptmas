@@ -1,4 +1,4 @@
-# scimba-javascriptmas ALL Coding Problem links
+# scimba-javascriptmas Solution of  Coding Problems
 
 # Day 1 Panic Function    https://scrimba.com/scrim/co3b745ff809496c578eb4a37
 # Day 2 Totally Private Data   https://scrimba.com/scrim/co83144c892a6a066ce5cbacf
@@ -27,4 +27,4 @@
 
 
 # FEEL FREE TO GIVE SUGGESTIONS
-#
+**By-Shivam Pandey**
